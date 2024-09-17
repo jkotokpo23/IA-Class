@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/kotok/OneDrive/Bureau/Master 1/IA-Class/morpion",
+      "program": "c:/Users/kotok/OneDrive/Bureau/Master 1/IA-Class/morpion/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
